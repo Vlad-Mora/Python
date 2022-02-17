@@ -1,0 +1,14 @@
+
+    {
+    "coinProps" : {
+        "200" : {"bagValue": 2000, "coinWeight": 12.00},
+        "100" : {"bagValue": 2000, "coinWeight": 8.75},
+        "50" : {"bagValue": 1000, "coinWeight": 8.00},
+        "20" : {"bagValue": 1000,"coinWeight": 5.00},
+        "10" : {"bagValue": 500,"coinWeight": 6.50},
+        "5" : {"bagValue": 500,"coinWeight": 3.25},
+        "2" : {"bagValue": 100,"coinWeight": 7.12},
+        "1" : {"bagValue": 100,"coinWeight": 3.56}
+        }
+    }
+    
